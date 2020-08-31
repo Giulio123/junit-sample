@@ -1,0 +1,4 @@
+org/gradle/sample/app/MessageUtils.java
+ org.gradle.sample.app.MessageUtils
+org/gradle/sample/app/Main.java
+ org.gradle.sample.app.Main

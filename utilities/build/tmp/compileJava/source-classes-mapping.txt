@@ -1,0 +1,6 @@
+org/gradle/sample/utilities/JoinUtils.java
+ org.gradle.sample.utilities.JoinUtils
+org/gradle/sample/utilities/SplitUtils.java
+ org.gradle.sample.utilities.SplitUtils
+org/gradle/sample/utilities/StringUtils.java
+ org.gradle.sample.utilities.StringUtils

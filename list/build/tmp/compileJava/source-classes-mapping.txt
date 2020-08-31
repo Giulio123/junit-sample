@@ -1,0 +1,3 @@
+org/gradle/sample/list/LinkedList.java
+ org.gradle.sample.list.LinkedList
+ org.gradle.sample.list.LinkedList$Node

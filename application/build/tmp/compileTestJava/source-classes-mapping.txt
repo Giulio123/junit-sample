@@ -1,0 +1,2 @@
+org/gradle/sample/app/MessageUtilsTest.java
+ org.gradle.sample.app.MessageUtilsTest
